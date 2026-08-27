@@ -1,0 +1,14 @@
+[{
+  "_id": 1,
+  "name": "Karan",
+  "age": 22,
+  "course": "Computer Engineering"
+},
+{
+  "_id": {
+    "$oid": "69e77dc3cb6f61366ef41068"
+  },
+  "name": "Amisha",
+  "age": 21,
+  "course": "Information Technology"
+}]
